@@ -1,6 +1,6 @@
 # 🕹️ Mobile_Game_Analysis
 
-### This project involves SQL queries over Big Query to measure game data and player behavior. You can see the outputs of the analyzes I have done via the link.
+### This project involves SQL queries over Big Query to measure game data and player behavior. You can see the outputs of the analysis I have done via the link.
 **https://docs.google.com/document/d/1_0Bah5aNsAatK5CjOJ6xGIlkOgYcmTpthofpAP7E6F4/edit?usp=sharing**
 
 ## Cases 💼
